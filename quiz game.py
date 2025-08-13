@@ -1,9 +1,7 @@
 import random
 
-# Dictionary to store scores for each player
 player_scores = {}
 
-# Example questions — replace with real ones from Mentimeter
 questions = [
     ("What is the capital of France?", "Paris"),
     ("What is 5 + 7?", "12"),
